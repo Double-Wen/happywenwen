@@ -1,8 +1,7 @@
-#inceagrhopeaghireag
-gres
-hre
-hhresheshrreahr
-thasrtjhrswjtrs
-nsrjntrsj
-jysrjyte
-jsr
+#include <iostream>
+using namespace std;
+int main()
+{
+    cout << "HelloWorld!" << endl;
+    return 0;
+}
